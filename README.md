@@ -13,6 +13,6 @@ this package will use BeautifulSoup4 and Request, to produce output in the form 
     print('Aplikasi Utama')
     result = gempa_terkini.ekstraksi_data()
     gempa_terkini.tampilkan_data(result)
-##Author
+## Author
 Faqih Fakhruddin
 
